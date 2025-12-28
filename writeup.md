@@ -1,8 +1,3 @@
-Perfect. Here is a **clean, evaluator-friendly 1-page write-up** you can submit **as-is** (PDF or Markdown).
-It is concise, technical, and answers exactly what they’re grading.
-
----
-
 # Measurement System – Implementation Notes
 
 ## Overview
@@ -82,20 +77,3 @@ For local validation, mouse input was raycast onto a reference plane to simulate
 ## Conclusion
 
 The measurement system provides accurate world-space distance calculation, visually correct engineering annotations, and clean system isolation suitable for integration into a larger ECS-driven Three.js application.
-
----
-
-### ✅ How to submit
-
-- Save this as `writeup.md` **or** export it as `writeup.pdf`
-- Keep it to **one page** (this already fits)
-
----
-
-If you want, next I can:
-
-- ✂️ Slightly shorten this to be _extra crisp_
-- 📧 Draft the **exact submission message/email**
-- 🔍 Run a **mock reviewer Q&A** so you’re prepared
-
-Just say what you want to do next.
