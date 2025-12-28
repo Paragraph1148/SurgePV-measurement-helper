@@ -1,0 +1,16 @@
+.
+├── baseClasses
+│   └── System.ts
+├── dev
+│   └── preview.ts
+├── index.html
+├── MeasurementSystem.ts
+├── package.json
+├── package-lock.json
+├── project_structure.txt
+├── public
+│   └── favicon.ico
+├── README.md
+└── tsconfig.json
+
+4 directories, 10 files
